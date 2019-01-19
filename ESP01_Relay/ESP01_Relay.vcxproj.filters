@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="ESP01_Relay.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.ESP01_Relay.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
